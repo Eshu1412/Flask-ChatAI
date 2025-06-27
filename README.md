@@ -58,8 +58,8 @@ This project is a Flask-based web application that combines a conversational cha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flask-ai-chatbot.git
-cd flask-ai-chatbot
+git clone https://github.com/Eshu1412/Flask-ChatAI.git
+cd Flask-ChatAI
 ```
 
 ### 2. Install Dependencies
